@@ -1,2 +1,5 @@
 # lang-chain-js-components
-This repository contains langchain js main components studies
+
+This repository contains langchain js main components studies.
+
+## Prompt Templates
